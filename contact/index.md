@@ -1,8 +1,8 @@
 ---
-title: Contact
+title: 人员招聘
 nav:
   order: 5
-  tooltip: Email, address, and location
+  tooltip: 招聘信息
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact

@@ -1,8 +1,8 @@
 ---
-title: Team
+title: 团队成员
 nav:
   order: 3
-  tooltip: About our team
+  tooltip: 团队成员介绍
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
