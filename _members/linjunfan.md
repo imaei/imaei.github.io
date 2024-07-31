@@ -1,6 +1,6 @@
 ---
 name: 林俊凡
-image: images/liulingbo.png
+image: images/linjunfan.png
 role: full_time
 # affiliation: University of Colorado
 # aliases:
