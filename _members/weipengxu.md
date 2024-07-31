@@ -1,7 +1,7 @@
 ---
-name: 刘凌波
-image: images/liulingbo.png
-role: full_time
+name: 魏朋旭
+image: images/weipengxu.png
+role: dual_hire
 # affiliation: University of Colorado
 # aliases:
 #   - J. Smith
@@ -11,6 +11,11 @@ role: full_time
 #   orcid: 0000-0001-8713-9213
 ---
 
-中大博士，PCL副研员，全职引进
+中科院大博士,中山大学副教授,全时双聘
+
+
+
+
+
 
 

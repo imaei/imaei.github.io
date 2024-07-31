@@ -1,5 +1,5 @@
 ---
-name: 刘凌波
+name: 林俊凡
 image: images/liulingbo.png
 role: full_time
 # affiliation: University of Colorado
@@ -11,6 +11,7 @@ role: full_time
 #   orcid: 0000-0001-8713-9213
 ---
 
-中大博士，PCL副研员，全职引进
+中大博士,PCL博士后,全职引进
+
 
 

@@ -8,11 +8,11 @@ leader:
 
 full_time:
   icon: fa-solid fa-microscope
-  description: 全职
+  description: 全职人员
 
 dual_hire:
   icon: fa-solid fa-microscope
-  description: 全时双聘
+  description: 全时双聘人员
 
 visiting_scholar:
   icon: fa-solid fa-graduation-cap

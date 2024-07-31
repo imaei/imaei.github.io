@@ -1,6 +1,6 @@
 ---
-name: 刘凌波
-image: images/liulingbo.png
+name: 成学文
+image: images/chengxuewen.png
 role: full_time
 # affiliation: University of Colorado
 # aliases:
@@ -11,6 +11,7 @@ role: full_time
 #   orcid: 0000-0001-8713-9213
 ---
 
-中大博士，PCL副研员，全职引进
+华科博士，PCL高级工程师，全职转入
+
 
 

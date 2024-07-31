@@ -1,6 +1,6 @@
 ---
-name: 刘凌波
-image: images/liulingbo.png
+name: 徐文君
+image: images/xuwenjun.jpg
 role: full_time
 # affiliation: University of Colorado
 # aliases:
@@ -11,6 +11,8 @@ role: full_time
 #   orcid: 0000-0001-8713-9213
 ---
 
-中大博士，PCL副研员，全职引进
+NUS博士，PCL助理研究员，全职转入
+
+
 
 
