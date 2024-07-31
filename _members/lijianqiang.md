@@ -1,6 +1,6 @@
 ---
 name: 李坚强
-image: images/lijianqiang.png
+image: images/lijianqiang.jpg
 role: visiting_scholar
 # affiliation: University of Colorado
 # aliases:

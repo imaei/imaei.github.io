@@ -1,6 +1,6 @@
 ---
 name: 王可泽
-image: images/wangkeze.jpg
+image: images/wangkeze.png
 role: visiting_scholar
 # affiliation: University of Colorado
 # aliases:
