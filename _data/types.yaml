@@ -2,29 +2,21 @@
 
 # team member roles
 
-pi:
+leader:
   icon: fa-solid fa-microscope
-  description: Principal Investigator
+  description: 团队负责人
 
-postdoc:
-  icon: fa-solid fa-glasses
-  description: Postdoctoral Researcher
+full_time:
+  icon: fa-solid fa-microscope
+  description: 全职
 
-phd:
+dual_hire:
+  icon: fa-solid fa-microscope
+  description: 全时双聘
+
+visiting_scholar:
   icon: fa-solid fa-graduation-cap
-  description: PhD Student
-
-undergrad:
-  icon: fa-solid fa-user-graduate
-  description: Undergraduate Student
-
-programmer:
-  icon: fa-solid fa-code
-  description: Programmer
-
-mascot:
-  icon: fa-solid fa-dog
-  description: Mascot
+  description: 访问学者
 
 # general
 

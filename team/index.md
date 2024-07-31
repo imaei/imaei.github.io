@@ -10,25 +10,7 @@ nav:
 
 {% include section.html %}
 
-## 团队负责人
-
 {% include list.html data="members" component="portrait" filters="role: leader" %}
-
-{% include section.html %}
-
-## 全职人员
-
 {% include list.html data="members" component="portrait" filters="role: full_time" %}
-
-{% include section.html %}
-
-
-## 全时双聘人员
-
 {% include list.html data="members" component="portrait" filters="role: dual_hire" %}
-
-{% include section.html %}
-
-## 访问学者
-
 {% include list.html data="members" component="portrait" filters="role: visiting_scholar" %}
