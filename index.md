@@ -7,7 +7,7 @@
 
 
 
-{% include section.html %}
+<!-- {% include section.html %}
 
 ## Highlights
 
@@ -80,4 +80,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   link="team"
   title="Our Team"
   text=text
-%}
+%} -->
