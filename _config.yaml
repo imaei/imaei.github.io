@@ -8,12 +8,8 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@imaeiDESCRIPTION=An engaging 1-3 sentence description of your lab..com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: imaeiDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  twitter: imaeiDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  youtube: imaeiDESCRIPTION=An engaging 1-3 sentence description of your lab.
+  email: chengwx@pcl.ac.cn
+  github: https://openi.pcl.ac.cn/Code_library_of_IMAEI
 
 ### jekyll settings
 
