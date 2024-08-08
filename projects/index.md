@@ -1,7 +1,7 @@
 ---
 title: 开源项目
 nav:
-  order: 2
+  order: 3
   tooltip: 开源项目介绍
 ---
 

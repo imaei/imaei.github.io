@@ -1,7 +1,7 @@
 ---
 title: 人员招聘
 nav:
-  order: 5
+  order: 4
   tooltip: 招聘信息
 ---
 

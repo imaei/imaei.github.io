@@ -1,7 +1,7 @@
 ---
 title: 前沿研究
 nav:
-  order: 1
+  order: 2
   tooltip: 前沿研究介绍
 ---
 
