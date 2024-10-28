@@ -1,9 +1,9 @@
 - title: ARIO
   subtitle: A Scaling Up Embodied AI Dataset Containing Multiple Types of Agents and Perceptual Modalities
   image: images/ario.png
-  link: https://openi.pcl.ac.cn/ARIO/ARIO
+  link: https://imaei.github.io/project_pages/ario/
   description: A Scaling Up Embodied AI Dataset Containing Multiple Types of Agents and Perceptual Modalities
-  repo: https://openi.pcl.ac.cn/ARIO/ARIO
+  repo: https://imaei.github.io/project_pages/ario/
   tags:
     - dataset
 
