@@ -27,6 +27,6 @@ nav:
 {%
   include button.html
   type="邮箱"
-  text="chengwx@pcl.ac.cn"
-  link="chengwx@pcl.ac.cn"
+  text="liulb@pcl.ac.cn"
+  link="liulb@pcl.ac.cn"
 %}
