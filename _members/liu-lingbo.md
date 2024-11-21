@@ -1,6 +1,6 @@
 ---
-name: 姜祖涛
-image: 
+name: 刘凌波
+image: images/liulingbo.png
 role: full_time
 # affiliation: University of Colorado
 # aliases:
@@ -11,4 +11,6 @@ role: full_time
 #   orcid: 0000-0001-8713-9213
 ---
 
-## 姜祖涛
+中大博士，PCL副研员，全职引进
+
+
