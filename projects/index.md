@@ -7,4 +7,4 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Code | Datasets
 
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
+{% include list.html component="card" data="projects" filters="group: " style="rich" %}
