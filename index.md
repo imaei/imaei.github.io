@@ -5,7 +5,7 @@ nav:
   tooltip: Home
 ---
 
-![team](images/team.png "IMAEI Team")
+<!-- ![team](images/team.png "IMAEI Team") -->
 
 ## 多智能体与具身智能研究所简介
 
