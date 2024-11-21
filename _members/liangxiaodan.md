@@ -1,7 +1,7 @@
 ---
-name: 乔念祖
-image: 
-role: full_time
+name: 梁小丹
+image: images/liangxiaodan.png
+role: dual_hire
 # affiliation: University of Colorado
 # aliases:
 #   - J. Smith
@@ -11,4 +11,11 @@ role: full_time
 #   orcid: 0000-0001-8713-9213
 ---
 
-## 乔念祖
+CMU博士后,中山大学副教授/万人青拔,全时双聘
+
+
+
+
+
+
+

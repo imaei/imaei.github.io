@@ -1,7 +1,7 @@
 ---
-name: 刘小博
-image: 
-role: full_time
+name: 郑锋
+image: images/zhengfeng.png
+role: dual_hire
 # affiliation: University of Colorado
 # aliases:
 #   - J. Smith
@@ -11,4 +11,10 @@ role: full_time
 #   orcid: 0000-0001-8713-9213
 ---
 
-## 叶华
+谢菲尔德博士，南科大副教授，国家优青，全时双聘
+
+
+
+
+
+
