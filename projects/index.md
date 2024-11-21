@@ -1,10 +1,10 @@
 ---
-title: 开源项目
+title: Code | Datasets
 nav:
-  order: 3
-  tooltip: 开源项目介绍
+  order: 4
+  tooltip: Code | Datasets
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}开源项目
+# {% include icon.html icon="fa-solid fa-wrench" %}Code | Datasets
 
 {% include list.html component="card" data="projects" filters="group: " style="small" %}

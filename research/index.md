@@ -1,11 +1,11 @@
 ---
-title: 前沿研究
+title: Publications
 nav:
-  order: 2
-  tooltip: 前沿研究介绍
+  order: 3
+  tooltip: Publications
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}前沿研究
+# {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
 {% include section.html %}
 
