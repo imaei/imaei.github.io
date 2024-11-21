@@ -1,5 +1,5 @@
 
-# imaeiDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# 多智能体与具身智能研究所
 
 Visit **[imaei.github.io](https://imaei.github.io)** 🚀
 
