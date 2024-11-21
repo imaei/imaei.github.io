@@ -52,9 +52,9 @@ jobs:
       - if: runner.debug == '1'
         uses: mxschmitt/action-tmate@v3
 
-      - name: Build updated citations
-        run: python _cite/cite.py
-        timeout-minutes: 15
+      # - name: Build updated citations
+      #   run: python _cite/cite.py
+      #   timeout-minutes: 15
 
       - name: Check if citations changed
         id: changed
