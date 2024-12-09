@@ -15,12 +15,6 @@ nav:
 
 {% include section.html %}
 
-## 全职双聘人员
-
-{% include list.html data="members" component="portrait" filters="role: dual_hire" %}
-
-{% include section.html %}
-
 ## 全职人员
 
 {% include list.html data="members" component="portrait" filters="role: full_time" %}
