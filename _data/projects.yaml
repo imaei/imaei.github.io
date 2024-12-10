@@ -16,6 +16,24 @@
   tags:
     - code
 
+- title: DreamEditor
+  subtitle: 'DreamEditor: Text-Driven 3D Scene Editing with Neural Fields'
+  image: images/dream_editor.png
+  link: https://openi.pcl.ac.cn/Code_library_of_IMAEI/DreamEditor
+  description: DreamEditor is a novel framework that enables controlled editing of neural fields using text prompts, allowing localized edits in specific regions of real-world scenes while maintaining consistency and generating realistic textures and geometry.
+  repo: https://openi.pcl.ac.cn/Code_library_of_IMAEI/DreamEditor
+  tags:
+    - code
+
+- title: Fashion Matrix
+  subtitle: 'Fashion Matrix: Editing Photos by Just Talking'
+  image: images/fashion.jpeg
+  link: https://openi.pcl.ac.cn/Code_library_of_IMAEI/FashionMatrix
+  description: Fashion Matrix is dedicated to bridging various visual and language models and continuously refining its capabilities as a comprehensive fashion AI assistant.
+  repo: https://openi.pcl.ac.cn/Code_library_of_IMAEI/FashionMatrix
+  tags:
+    - code
+
 - title: To Err like Human
   subtitle: 'To Err like Human: Affective Bias-Inspired Measures for Visual Emotion Recognition Evaluation'
   image: images/ecc.png
