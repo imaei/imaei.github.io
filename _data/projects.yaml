@@ -7,3 +7,29 @@
   tags:
     - dataset
 
+- title: TIP-Editor
+  subtitle: 'TIP-Editor: An Accurate 3D Editor Following Both Text-Prompts And Image-Prompts'
+  image: images/tip_editor.png
+  link: https://openi.pcl.ac.cn/IMAEI/TIP-Editor/
+  description: TIP-Editor is a 3D scene editing framework that combines text, image prompts, and a 3D bounding box to enable accurate control over the appearance and placement of the edited content, utilizing a stepwise 2D personalization strategy and 3D Gaussian splatting for precise local editing.
+  repo: https://openi.pcl.ac.cn/IMAEI/TIP-Editor/
+  tags:
+    - code
+
+- title: To Err like Human
+  subtitle: 'To Err like Human: Affective Bias-Inspired Measures for Visual Emotion Recognition Evaluation'
+  image: images/ecc.png
+  link: https://openi.pcl.ac.cn/Code_library_of_IMAEI/ECC
+  description: 'This repository contains the implementation of our paper "To Err like Human: Affective Bias-Inspired Measures for Visual Emotion Recognition Evaluation", which introduces a new evaluation metric for Visual Emotion Recognition (VER).'
+  repo: https://openi.pcl.ac.cn/Code_library_of_IMAEI/ECC
+  tags:
+    - code
+
+- title: ExtDM
+  subtitle: 'ExtDM: Distribution Extrapolation Diffusion Model for Video Prediction'
+  image: images/extdm.png
+  link: https://openi.pcl.ac.cn/Code_library_of_IMAEI/ExtDM
+  description: We present ExtDM, a new diffusion model that extrapolates video content from current frames by accurately modeling distribution shifts towards future frames.
+  repo: https://openi.pcl.ac.cn/Code_library_of_IMAEI/ExtDM
+  tags:
+    - code
