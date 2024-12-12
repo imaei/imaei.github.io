@@ -8,7 +8,7 @@ proofer: false
 
 # site social media and other links
 links:
-  email: chengwx@pcl.ac.cn
+  email: zhangh02@pcl.ac.cn
   github: https://openi.pcl.ac.cn/Code_library_of_IMAEI
 
 ### jekyll settings
