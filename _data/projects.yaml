@@ -16,23 +16,8 @@
   tags:
     - code
 
-- title: DreamEditor
-  subtitle: 'DreamEditor: Text-Driven 3D Scene Editing with Neural Fields'
-  image: images/dream_editor.png
-  link: https://openi.pcl.ac.cn/Code_library_of_IMAEI/DreamEditor
-  description: DreamEditor is a novel framework that enables controlled editing of neural fields using text prompts, allowing localized edits in specific regions of real-world scenes while maintaining consistency and generating realistic textures and geometry.
-  repo: https://openi.pcl.ac.cn/Code_library_of_IMAEI/DreamEditor
-  tags:
-    - code
 
-- title: Fashion Matrix
-  subtitle: 'Fashion Matrix: Editing Photos by Just Talking'
-  image: images/fashion.jpeg
-  link: https://openi.pcl.ac.cn/Code_library_of_IMAEI/FashionMatrix
-  description: Fashion Matrix is dedicated to bridging various visual and language models and continuously refining its capabilities as a comprehensive fashion AI assistant.
-  repo: https://openi.pcl.ac.cn/Code_library_of_IMAEI/FashionMatrix
-  tags:
-    - code
+
 
 - title: To Err like Human
   subtitle: 'To Err like Human: Affective Bias-Inspired Measures for Visual Emotion Recognition Evaluation'
@@ -49,5 +34,106 @@
   link: https://openi.pcl.ac.cn/Code_library_of_IMAEI/ExtDM
   description: We present ExtDM, a new diffusion model that extrapolates video content from current frames by accurately modeling distribution shifts towards future frames.
   repo: https://openi.pcl.ac.cn/Code_library_of_IMAEI/ExtDM
+  tags:
+    - code
+
+# - title: Adapt or Perish
+#   subtitle: 'Adapt or Perish: Adaptive Sparse Transformer with Attentive Feature Refinement for Image Restoration (CVPR 2024)'
+#   image: 
+#   link: 
+#   description: 
+#   repo: 
+#   tags:
+#     - code
+
+- title: CatVTON
+  subtitle: 'CatVTON: Concatenation Is All You Need for Virtual Try-On with Diffusion Models'
+  image: images/catvton.jpg
+  link: https://openi.pcl.ac.cn/Code_library_of_IMAEI/CatVTON
+  description: 'CatVTON is a simple and efficient virtual try-on diffusion model with 1) Lightweight Network (899.06M parameters totally), 2) Parameter-Efficient Training (49.57M parameters trainable) and 3) Simplified Inference (< 8G VRAM for 1024X768 resolution).'
+  repo: https://openi.pcl.ac.cn/Code_library_of_IMAEI/CatVTON
+  tags:
+    - code
+
+# - title: 
+#   subtitle: 
+#   image: 
+#   link: 
+#   description: 
+#   repo: 
+#   tags:
+#     - code
+
+- title: HCP-Diffusion
+  subtitle: 'HCP-Diffusion'
+  image: images/hcp-diffusion.png
+  link: https://openi.pcl.ac.cn/Code_library_of_IMAEI/HCP-Diffusion
+  description: HCP-Diffusion is a toolbox for Stable Diffusion models based on Diffusers. It facilitates flexiable configurations and component support for training, in comparison with webui and sd-scripts.
+  repo: https://openi.pcl.ac.cn/Code_library_of_IMAEI/HCP-Diffusion
+  tags:
+    - code
+
+- title: OV-DINO
+  subtitle: 'Unified Open-Vocabulary Detection with Language-Aware Selective Fusion'
+  image: images/ov-dino.png
+  link: https://openi.pcl.ac.cn/Code_library_of_IMAEI/OV-DINO
+  description: This project contains the official PyTorch implementation, pre-trained models, fine-tuning code, and inference demo for OV-DINO.
+  repo: https://openi.pcl.ac.cn/Code_library_of_IMAEI/OV-DINO
+  tags:
+    - code
+
+- title: REVERIE
+  subtitle: 'Reflective Instruction Tuning: Mitigating Hallucinations in Large Vision-Language Models'
+  image: images/reverie.png
+  link: https://openi.pcl.ac.cn/Code_library_of_IMAEI/REVERIE
+  description: A large-scale dataset with rationale annotations to enhance model reasoning by predicting justifications for correct or incorrect responses.
+  repo: https://openi.pcl.ac.cn/Code_library_of_IMAEI/REVERIE
+  tags:
+    - dataset
+  
+
+- title: CONSOLE
+  subtitle: 'Correctable Landmark Discovery via Large Models for Vision-Language Navigation'
+  image: images/console.png
+  link: https://openi.pcl.ac.cn/Code_library_of_IMAEI/CONSOLE
+  description: A new Vision-Language Navigation paradigm that uses ChatGPT and CLIP for open-world landmark discovery, correcting prior knowledge with a learnable co-occurrence scoring module to enhance navigation accuracy and outperform existing methods on benchmarks like R2R and R4R.
+  repo: https://openi.pcl.ac.cn/Code_library_of_IMAEI/CONSOLE
+  tags:
+    - code
+
+- title: NavCoT
+  subtitle: 'NavCoT: Boosting LLM-Based Vision-and-Language Navigation via Learning Disentangled Reasoning'
+  image: images/navcot.png
+  link: https://openi.pcl.ac.cn/Code_library_of_IMAEI/NavCoT
+  description: A parameter-efficient in-domain training strategy that enables large language models to guide navigational decision-making in Vision-and-Language Navigation tasks
+  repo: https://openi.pcl.ac.cn/Code_library_of_IMAEI/NavCoT
+  tags:
+    - code
+
+
+- title: Surfer
+  subtitle: 'Surfer: Progressive Reasoning with World Models for Robotic Manipulation'
+  image: images/surfer.jpg
+  link: https://openi.pcl.ac.cn/Code_library_of_IMAEI/test
+  description: A robot manipulation framework that improves natural language instruction understanding and physical action execution by explicitly modeling action and scene predictions in a multi-modal world model
+  repo: https://openi.pcl.ac.cn/Code_library_of_IMAEI/test
+  tags:
+    - code
+
+- title: DreamEditor
+  subtitle: 'DreamEditor: Text-Driven 3D Scene Editing with Neural Fields'
+  image: images/dream_editor.png
+  link: https://openi.pcl.ac.cn/Code_library_of_IMAEI/DreamEditor
+  description: DreamEditor is a novel framework that enables controlled editing of neural fields using text prompts, allowing localized edits in specific regions of real-world scenes while maintaining consistency and generating realistic textures and geometry.
+  repo: https://openi.pcl.ac.cn/Code_library_of_IMAEI/DreamEditor
+  tags:
+    - code
+
+- title: Fashion Matrix
+  subtitle: 'Fashion Matrix: Editing Photos by Just Talking'
+  image: images/fashion.jpeg
+  link: https://openi.pcl.ac.cn/Code_library_of_IMAEI/FashionMatrix
+  description: Fashion Matrix is dedicated to bridging various visual and language models and continuously refining its capabilities as a comprehensive fashion AI assistant.
+  repo: https://openi.pcl.ac.cn/Code_library_of_IMAEI/FashionMatrix
   tags:
     - code
