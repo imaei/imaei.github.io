@@ -57,15 +57,6 @@
   tags:
     - code
 
-# - title: 
-#   subtitle: 
-#   image: 
-#   link: 
-#   description: 
-#   repo: 
-#   tags:
-#     - code
-
 - title: HCP-Diffusion
   subtitle: 'HCP-Diffusion'
   image: images/hcp-diffusion.png
@@ -139,3 +130,12 @@
   repo: https://openi.pcl.ac.cn/Code_library_of_IMAEI/FashionMatrix
   tags:
     - code
+
+# - title: 
+#   subtitle: 
+#   image: 
+#   link: 
+#   description: 
+#   repo: 
+#   tags:
+#     - code
