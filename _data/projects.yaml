@@ -46,6 +46,8 @@
 #   tags:
 #     - code
 
+# AST FPro PBR LAKE-RED BPM-GCN NCMNet MART PlaneSeg
+
 - title: CatVTON
   subtitle: 'CatVTON: Concatenation Is All You Need for Virtual Try-On with Diffusion Models'
   image: images/catvton.jpg
