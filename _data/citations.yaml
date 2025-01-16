@@ -18,6 +18,7 @@
   - Vision-Language Navigation
   plugin: sources.py
   file: sources.yaml
+
 - id: arxiv:2403.07376
   title: 'NavCoT: Boosting LLM-Based Vision-and-Language Navigation via Learning Disentangled
     Reasoning'
@@ -40,6 +41,7 @@
   repo: github.com/expectorlin/NavCoT
   plugin: sources.py
   file: sources.yaml
+
 - id: arxiv:2401.07314
   title: 'MapGPT: Map-Guided Prompting with Adaptive Path Planning for Vision-and-Language
     Navigation'
@@ -58,6 +60,7 @@
   - Vision-Language Navigation
   plugin: sources.py
   file: sources.yaml
+  
 - id: arxiv:2306.11335
   title: 'Surfer: Progressive Reasoning with World Models for Robotic Manipulation'
   authors:

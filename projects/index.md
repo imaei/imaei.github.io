@@ -9,9 +9,15 @@ nav:
 
 {% include section.html %}
 ## 开源数据
+{% include section.html %}
 
+{% include list.html data="datasets" component="citation" style="rich" %}
 
-{% include list.html component="card" data="projects" filters="group: " style="large" %}
+{% include section.html %}
+## 开源项目
+{% include section.html %}
+
+{% include list.html data="projects" component="citation" style="rich" %}
 
 <!-- {% include list.html data="projects" component="post-excerpt" %} -->
 

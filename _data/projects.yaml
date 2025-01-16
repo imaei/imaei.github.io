@@ -1,12 +1,3 @@
-- title: ARIO
-  subtitle: A Scaling Up Embodied AI Dataset Containing Multiple Types of Agents and Perceptual Modalities
-  image: images/ario.png
-  link: https://imaei.github.io/project_pages/ario/
-  description: A Scaling Up Embodied AI Dataset Containing Multiple Types of Agents and Perceptual Modalities
-  repo: https://imaei.github.io/project_pages/ario/
-  tags:
-    - dataset
-
 - title: TIP-Editor
   subtitle: 'TIP-Editor: An Accurate 3D Editor Following Both Text-Prompts And Image-Prompts'
   image: images/tip_editor.png
@@ -15,9 +6,6 @@
   repo: https://openi.pcl.ac.cn/IMAEI/TIP-Editor/
   tags:
     - code
-
-
-
 
 - title: To Err like Human
   subtitle: 'To Err like Human: Affective Bias-Inspired Measures for Visual Emotion Recognition Evaluation'
