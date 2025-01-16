@@ -9,7 +9,7 @@ proofer: false
 # site social media and other links
 links:
   email: zhangh02@pcl.ac.cn
-  github: https://openi.pcl.ac.cn/Code_library_of_IMAEI
+  link: https://openi.pcl.ac.cn/Code_library_of_IMAEI
 
 ### jekyll settings
 
