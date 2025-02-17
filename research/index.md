@@ -1,16 +1,10 @@
 ---
-title: Publications
+title: LLM Challenge
 nav:
   order: 3
-  tooltip: Publications
+  tooltip: LLM Challenge
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Publications
-
-{% include section.html %}
-
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" %}
+<div style="display: flex; justify-content: center; width: 110%; height: 300vh;">
+  <iframe src="https://lijichang.github.io/leaderboard.html" frameborder="0" style="width: 100%; height: 100%;"></iframe>
+</div>
