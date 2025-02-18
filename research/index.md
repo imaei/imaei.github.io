@@ -11,5 +11,5 @@ nav:
 
 <script>
   // 自动重定向到目标URL
-  window.location.href = "https://lijichang.github.io/leaderboard.html";
+  window.location.href = "https://lotbench.github.io/leaderboard.html";
 </script>
