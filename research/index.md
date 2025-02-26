@@ -1,7 +1,7 @@
 ---
 title: LLM Challenge
 nav:
-  order: 3
+  order: 2
   tooltip: LLM Challenge
 ---
 

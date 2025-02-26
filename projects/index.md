@@ -1,13 +1,13 @@
 ---
-title: Code | Datasets
+title: Open Source
 nav:
-  order: 4
-  tooltip: Code | Datasets
+  order: 3
+  tooltip: Open Source
 ---
 
 <!-- # {% include icon.html icon="fa-solid fa-wrench" %}Code | Datasets -->
 
-{% include section.html %}
+<!-- {% include section.html %}
 ## 开源数据
 {% include section.html %}
 
@@ -19,6 +19,10 @@ nav:
 
 {% include list.html data="projects" component="citation" style="rich" %}
 
-<!-- {% include list.html data="projects" component="post-excerpt" %} -->
 
-{% include section.html %}
+{% include section.html %} -->
+
+<script>
+  // 自动重定向到目标URL
+  window.location.href = "https://openi.pcl.ac.cn/Code_library_of_IMAEI";
+</script>
