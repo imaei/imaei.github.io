@@ -41,4 +41,4 @@ nav:
 
 VidMan已在CALVIN榜单任务中超过了谷歌RT-1-X、字节跳动GR-1以及卡内基梅隆大学3D Diffuser Actor等世界先进模型（如图1所示）。同时，该模型和有关方法已被国际顶级学术会议NeurIPS 2024接收并发表[https://neurips.cc/virtual/2024/poster/94687](https://neurips.cc/virtual/2024/poster/94687)。
 
-VidMan现已在OpenI启智社区开源。更多关于VidMan的内容，请访问启智社区项目主页：[https://openi.pcl.ac.cn/Code_library_of_IMAEI/VidMan](https://openi.pcl.ac.cn/Code_library_of_IMAEI/VidMan)。
+VidMan已在OpenI启智社区开源。更多关于VidMan的内容，请访问启智社区项目主页：[https://openi.pcl.ac.cn/Code_library_of_IMAEI/VidMan](https://openi.pcl.ac.cn/Code_library_of_IMAEI/VidMan)。
