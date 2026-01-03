@@ -14,7 +14,7 @@ nav:
 {% include list.html data="datasets" component="citation" style="rich" %}
 
 {% include section.html %}
-## 开源项目
+## 开源项目的代码
 {% include section.html %}
 
 {% include list.html data="projects" component="citation" style="rich" %}
